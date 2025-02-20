@@ -53,14 +53,14 @@ const companies = [
     {
         name: 'Tanium',
         role: 'Software Engineer Intern',
-        period: '2024',
+        period: '2025',
         logo: 'images/tanium-logo.png',
         color: '#0066CC'
     },
     {
         name: 'Gentian',
-        role: 'ML Engineer',
-        period: '2023 - Present',
+        role: 'ML/Geospatial Engineer',
+        period: '2024 - Present',
         logo: 'images/gentian-logo.png',
         color: '#34D399'
     }
