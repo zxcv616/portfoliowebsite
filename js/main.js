@@ -69,7 +69,7 @@ const companies = [
 // About section stats
 const stats = [
     { number: '3+', label: 'Years Experience' },
-    { number: '15+', label: 'Projects Completed' },
+    { number: '20+', label: 'Projects Completed' },
     { number: '8', label: 'Current Clients' }
 ];
 
@@ -216,9 +216,9 @@ const projects = [
         link: 'vqa-model.html'
     },
     {
-        title: 'Project Beta',
-        description: 'Clean architecture implementation',
-        tags: ['TypeScript', 'AWS'],
+        title: 'Coming Soon',
+        description: 'Coming Soon',
+        tags: ['Coming Soon', 'Coming Soon'],
         link: 'project-beta.html'
     }
 ];
@@ -248,9 +248,9 @@ projects.forEach(project => {
 // Skills data organized by category
 const skillsByCategory = {
     Frontend: ['React', 'TypeScript', 'Tailwind CSS'],
-    Backend: ['Node.js', 'Python', 'PostgreSQL'],
+    Backend: ['Node.js', 'Django', 'PostgreSQL'],
     Tools: ['Git', 'Docker', 'AWS'],
-    Other: ['UI/UX', 'System Design', 'Agile']
+    Other: ['UI/UX', 'System Design', 'Agile', 'Slack']
 };
 
 // Render skills by category with hover effect
