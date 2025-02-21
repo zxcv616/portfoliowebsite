@@ -1,6 +1,6 @@
-# Personal Portfolio Website
+# Matthew Wiecking Portfolio
 
-A modern, responsive portfolio website to showcase software engineering projects and skills.
+Built to showcase my projects & experience
 
 ## Project Structure
 - `index.html`: Main landing page
@@ -12,15 +12,14 @@ A modern, responsive portfolio website to showcase software engineering projects
 - `projects/`: Directory for project-specific content
 
 ## Technologies Used
-- HTML5
-- CSS3
+- HTML/CSS
+- Node
+- Tailwind
 - JavaScript
-- Font Awesome (for icons)
-- Google Fonts
+- Vercel
 
-## Features
+## Current Features
 - Responsive design
 - Project showcase
 - Skills section
 - Contact form
-- Dark/light mode toggle
