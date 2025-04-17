@@ -204,21 +204,21 @@ if (viewWorkButton) {
 // Projects data with minimal design
 const projects = [
     {
-        title: 'Quantitative Analysis Tool',
-        description: 'A fully quantitative approach to financial analysis and modeling via utilizing ML and market backtesting.',
-        tags: ['Python', 'Django', 'Yfinance'],
+        title: 'Wavhaven',
+        description: 'A new platform for artists to upload their music using data analysis.',
+        tags: ['JavaScript', 'Django', 'React'],
         link: 'quantitative-analysis-tool.html'
     },
     {
-        title: 'VQA Model',
-        description: 'A highly efficient Computer Vision Model for object detection and classification',
-        tags: ['OpenCV', 'Python', 'PyTorch'],
+        title: 'Umbra',
+        description: 'Simplifying online processes via undetectable AI using global shortcuts.',
+        tags: ['Python', 'Gemini API', 'React', 'Next.js'],
         link: 'vqa-model.html'
     },
     {
-        title: 'Coming Soon',
-        description: 'Coming Soon',
-        tags: ['Coming Soon', 'Coming Soon'],
+        title: 'Omni IDE',
+        description: 'The next AI-powered IDE agent for game development.',
+        tags: ['FastAPI', 'Vite', 'Next.js', 'Electron'],
         link: 'project-beta.html'
     }
 ];
